@@ -7,7 +7,6 @@ About me
 • with hands-on experience in frameworks like React, Express and Bootstrap.
 • Adept at collaborating within teams, problem-solving, and adapting to new technologies. Committed to continuous learning and growth in the ever-evolving field of front-end development."
 •	🌍I live in Cairo – Egypt.
-•	
 •	📁 You can see a bit of my hard work in my Portfolio https://khalifa5000.github.io/My-portfolio/
 
 •	📫 You can contact me at m.khalifa5000@gmail.com
