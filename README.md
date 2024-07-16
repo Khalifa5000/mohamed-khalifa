@@ -23,3 +23,10 @@ About me:
 Thank you for visiting my profile.
 
 
+🌐 Socials:
+
+
+💻 Tech Stack:
+CSS3 HTML5 Java JavaScript  PowerShell  TypeScript  Terminal Shell Script  Bootstrap  Express.js JWT   NPM NodeJS SASS  Apache  MicrosoftSQLServer MongoDB    Figma GitHub Git GitLab Postman
+
+
