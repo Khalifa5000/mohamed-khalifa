@@ -10,7 +10,7 @@ About me:
 
 • Proficient in HTML, CSS, JavaScript, Node.js, and MongoDB.
 
-• with hands-on experience in frameworks like React, Express and Bootstrap.
+• with hands-on experience in frameworks like React.js, Express.js and Bootstrap.
 
 • Adept at collaborating within teams, problem-solving, and adapting to new technologies. Committed to continuous learning and growth in the ever-evolving field of front-end development.
 
