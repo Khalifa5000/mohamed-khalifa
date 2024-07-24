@@ -2,7 +2,7 @@
 
 About me:
 
-•	🔭 I’m a Full stack web developer.
+•	🔭 I’m a Full stack web developer. With MERN stack.
 
 •	🌱 I am currently working as Full Stack freelancer with at least 2 years experience.
 
