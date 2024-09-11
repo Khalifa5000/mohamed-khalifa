@@ -8,7 +8,7 @@ About me:
 
 •	I am eager to leverage my passion for coding and recent education in web development to contribute to dynamic projects.
 
-• Proficient in HTML, CSS, JavaScript, Node.js, and MongoDB.
+• Proficient in HTML, CSS, Bootstrap, JavaScript, Node.js, Express.js and MongoDB.
 
 • with hands-on experience in frameworks like React.js, Express.js and Bootstrap.
 
